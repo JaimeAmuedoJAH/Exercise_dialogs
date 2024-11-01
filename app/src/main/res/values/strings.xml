@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name" translatable="false">Practica_dialog</string>
+    <string name="lbl_language">Select the language</string>
+    <string name="button_start">START COURSE</string>
+    <string name="button_english">ENGLISH</string>
+    <string name="button_spanish">SPANISH</string>
+    <string name="button_french">FRENCH</string>
+    <string name="button_portuguese">PORTUGUESE</string>
+
+    <string name="dialog_button_start_title">Do you want to start in</string>
+    <string name="dialog_button_start_message">Selected language:</string>
+    <string name="dialog_button_start_negative">No</string>
+    <string name="dialog_button_start_positive">Yes</string>
+
+    <string name="second_dialog_title">First step</string>
+    <string name="second_dialog_variables">Variable types:</string>
+    <string name="second_dialog_string" translatable="false">String</string>
+    <string name="second_dialog_int" translatable="false">int</string>
+    <string name="second_dialog_boolean" translatable="false">boolean</string>
+    <string name="_dialog_positive">Next</string>
+
+    <string name="third_dialog_title">Which variable accepts true or false?</string>
+    <string-array name="third_dialog_options">
+        <item>String</item>
+        <item>int</item>
+        <item>boolean</item>
+    </string-array>
+
+    <string name="fourth_dialog_title">Correct answer</string>
+    <string name="fourth_dialog_message">The correct answer is third option: boolean</string>
+
+    <string name="fifth_dialog_title">Rate this app</string>
+    <string name="fifth_dialog_option1">This app has been useful to you?</string>
+    <string name="fifth_dialog_option2">Would you recommend this app</string>
+    <string name="fifth_dialog_option3">You have been satisfied</string>
+
+    <string name="sixth_dialog_title">We are done!</string>
+    <string name="sixth_dialog_message">Thanks for use this app</string>
+    <string name="sixth_dialog_positive">Finish</string>
+</resources>

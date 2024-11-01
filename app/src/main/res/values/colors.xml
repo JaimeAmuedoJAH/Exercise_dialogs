@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="lbl_language">#5067DB</color>
+    <color name="buttons_languages_background">#D9261A</color>
+</resources>

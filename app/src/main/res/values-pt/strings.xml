@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lbl_language">Selecionar idioma</string>
+    <string name="button_start">INICIAR O CURSO</string>
+    <string name="button_english">INGLÊS</string>
+    <string name="button_spanish">ESPANHOL</string>
+    <string name="button_french">FRANCÊS</string>
+    <string name="button_portuguese">PORTUGUÊS</string>
+    <string name="dialog_button_start_title">Você quer começar em</string>
+    <string name="dialog_button_start_message">Língua selecionada:</string>
+    <string name="dialog_button_start_negative">Não</string>
+    <string name="dialog_button_start_positive">Sim</string>
+    <string name="second_dialog_title">Primeiro Passo</string>
+    <string name="second_dialog_variables">Tipos de variáveis</string>
+    <string name="_dialog_positive">Seguir</string>
+    <string name="third_dialog_title">Qual variável aceita verdadeiro ou falso?</string>
+    <string name="fourth_dialog_title">Resposta correta</string>
+    <string name="fifth_dialog_title">Classifique o aplicativo</string>
+    <string name="fifth_dialog_option1">O aplicativo foi útil</string>
+    <string name="fifth_dialog_option2">Você recomendaria o aplicativo</string>
+    <string name="fifth_dialog_option3">Ficou satisfeito</string>
+    <string name="sixth_dialog_title">Acabou tudo entre nós</string>
+    <string name="sixth_dialog_message">Obrigado por usar o aplicativo</string>
+    <string name="sixth_dialog_positive">Acabamento</string>
+    <string name="fourth_dialog_message">A resposta correta é a terceira opção: boolean</string>
+</resources>
